@@ -1,12 +1,16 @@
 # 👋 Hi, I'm SARVESH MALHOTRA
 
-🎓 Computer Science Engineering Student
-💻 Passionate about building scalable tech solutions
-🚀 Focused on Data Science, Machine Learning & Web Development
+<sub>
+🎓 Computer Science Engineering Student  
+💻 Passionate about building scalable tech solutions  
+🚀 Focused on Data Science, Machine Learning & Web Development  
+</sub>
 
 ---
 
 ## 🧠 About Me
+
+<sub>
 
 * 👨‍💻 Strong in **C/C++, Python, and JavaScript**
 * 🤖 Skilled in **Data Science, Machine Learning & EDA**
@@ -14,9 +18,11 @@
 * 📊 Interested in **data-driven decision making & AI systems**
 * ⚡ Always learning and building real-world projects
 
+</sub>
+
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
@@ -35,7 +41,9 @@
 
 ---
 
-# 🤖 Data Science & Machine Learning
+## 🤖 Data Science & Machine Learning
+
+<sub>
 
 ### 📊 Exploratory Data Analysis (EDA)
 
@@ -68,64 +76,84 @@
 * Bias-Variance Tradeoff
 * Overfitting & Underfitting
 
----
-
-# ⚙️ Tools & Platforms
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+</sub>
 
 ---
 
+## ⚙️ Tools & Platforms
+
+<sub>
+
+VS Code • Google Colab • Kaggle • Git • GitHub
+
+</sub>
+
 ---
 
-# 🔥 Streak Stats
+## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
 
 ---
 
-# 🚀 What I Do
+## 🚀 What I Do
+
+<sub>
 
 * Build Machine Learning Models
 * Perform Data Analysis & Visualization
 * Develop Responsive Web Interfaces
 * Solve DSA & Logical Problems
 
+</sub>
+
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
+
+<sub>
 
 * Deep Learning
 * Backend Development (Node.js)
 * API Development & Integration
 * System Design
 
+</sub>
+
 ---
 
-# 🎯 Career Goals
+## 🎯 Career Goals
+
+<sub>
 
 * 💼 Secure a strong tech internship
 * 🧠 Build AI-powered applications
 * 🌍 Contribute to open-source
 * 🚀 Become a Full Stack + ML Engineer
 
+</sub>
+
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
+
+<sub>
 
 * 💼 LinkedIn: https://www.linkedin.com/
-* 📧 Email: [sarveshmalhotra206@gmail.com](sarveshmalhotra206@gmail.com)
+* 📧 Email: [sarveshmalhotra206@gmail.com](mailto:sarveshmalhotra206@gmail.com)
+
+</sub>
 
 ---
 
-# 💡 Developer Mindset
+## 💡 Developer Mindset
 
-> “Discipline + Consistency + Curiosity = Growth 🚀”
+<sub>
+
+> Discipline + Consistency + Curiosity = Growth 🚀
+
+</sub>
 
 ---
 
-⭐ *Explore my repositories and let's build something impactful.*
+⭐ <sub>Explore my repositories and let's build something impactful.</sub>
