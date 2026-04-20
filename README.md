@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sid
+# 👋 Hi, I'm SARVESH MALHOTRA
 
 🎓 Computer Science Engineering Student
 💻 Passionate about building scalable tech solutions
