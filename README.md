@@ -89,7 +89,7 @@ Internship • AI Projects • Open Source • Full Stack + ML Engineer
 ## 📫 Connect With Me
 
 <sub>
-💼 LinkedIn: [https://www.linkedin.com/  ](https://www.linkedin.com/in/sarvesh-malhotra-4b37b6338/)
+💼 LinkedIn: (https://www.linkedin.com/in/sarvesh-malhotra-4b37b6338/)
 📧 Email: sarveshmalhotra206@gmail.com  
 </sub>
 
